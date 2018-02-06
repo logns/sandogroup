@@ -1,0 +1,47 @@
+.megamenu a{
+        text-decoration: none;
+        color: #3C3C3C;
+        font-size: 13px;
+      }
+      .megamenu h3{
+        margin: 7px 0;
+      }
+      .megamenu{
+        background-color: lightblue;
+    position: absolute;
+left:353px;
+	border:1px solid black;
+    top:192px;
+    z-index: 99999;
+	border-radius:10px;
+      }
+      .megamenu .column
+        {
+        border-right: 2px solid blue;
+    float: left;
+    margin-right: 5px;
+    min-height: 210px;
+    padding: 3px 5px;
+    text-align: center;
+        
+        }
+
+        .megamenu .column:last-child{
+          border-right:none;
+        }
+
+        .megamenu ul{
+          padding-left: 0px;
+        }
+
+        .megamenu li{
+          line-height: 24px;
+          width: 200px;
+          list-style: none;
+        }
+        .megamenu .mega_title{
+         font-size: 15px;
+    font-weight: bold;
+    margin: 5px 0 0;
+    padding: 0 0 5px;
+        }

@@ -1,0 +1,43 @@
+
+.ckformMOD {
+	margin-top: 0px;
+}
+
+
+.ckformMOD .ckCSSlabel {
+	float: none;
+	margin-top: 5px;
+	width: 100%;
+}
+
+.ckformMOD div.fc-error {
+	margin-left: 0px !important;
+}
+
+.ckformMOD .ckCSSinputnormal, .ckformMOD .ckCSSinputnowidth,.ckformMOD .ckCSSinput {
+	float: none;
+	margin-top: 0px !important;
+	margin-bottom: 0px !important;
+	display: inline;
+	vertical-align: middle;
+}
+
+.ckformMOD button.calendar {
+	margin-top: 0px !important;
+}
+
+.ckformMOD .calendarinput {
+	float: left !important;
+}
+
+.ckformMOD .ckformMOD div.error {
+	font-size:0.83em;
+}
+
+.ckformMOD .ckCSSnoTip {width: 97%;}
+.ckformMOD .ckCSSTip, .ckformMOD .hasDatepicker {width: 84%;}
+
+.ckformMOD .ckform_tooltip {
+	margin-top: 0px;
+	margin-left: 2px;
+}

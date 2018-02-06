@@ -1,0 +1,105 @@
+.slidesjs-control, .slidesjs-container{
+	height: 281px !important;
+}
+
+#slider-wrapper .slidesjs-previous{
+    background-image: url("../images/arrow-left.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    float: left;
+    font-size: 0;
+    height: 43px !important;
+    left: 1px;
+    position: relative;
+    top: -149px;
+    width: 42px;
+    z-index: 10;
+}
+
+#slider-wrapper .slidesjs-next{
+    background-image: url("../images/arrow-right.png");
+    background-position: center center;
+    background-repeat: no-repeat;
+    float: right;
+    font-size: 0;
+    height: 43px !important;
+    position: relative;
+    right: 1px;
+    top: -149px;
+    width: 42px;
+    z-index: 10;
+}
+
+#slider-wrapper .slidesjs-pagination{
+	display: none;
+}
+
+#featured-pumps-section .slidesjs-pagination{
+    float: right;
+    position: absolute;
+    top: 12px;
+    right: 0;
+    z-index: 12;
+}
+
+#featured-pumps-section .slidesjs-container{
+	height: 181px !important;
+}
+
+#featured-pumps-section .slidesjs-pagination-item{
+	float: left;
+	list-style: none;
+	margin: 0 1px;
+}
+
+#featured-pumps-section li.slidesjs-pagination-item a{
+	background-image: url('../images/point-2.png');
+	background-repeat: no-repeat;
+	height: 16px;
+	padding-left: 16px;
+	font-size: 0 !important;
+	float: left;
+}
+
+#featured-pumps-section .slidesjs-pagination-item a:hover{
+	background-image: url('../images/point-1.png');
+	background-repeat: no-repeat;
+}
+
+
+#testimonials-section .slidesjs-container, #testimonials-section .slidesjs-control{
+	height: 112px !important;
+	width: 750px !important;
+}
+
+#testimonials-section .slidesjs-pagination{
+	float: right;
+	 bottom: -23px;
+    float: right;
+    position: absolute;
+    right: 0;
+   
+}
+
+#testimonials-section{
+	overflow: visible !important;
+}
+#testimonials-section li.slidesjs-pagination-item{
+	float: left;
+	 list-style: none outside none;
+	  margin: 0 1px;
+}
+
+#testimonials-section li.slidesjs-pagination-item a{
+	background-image: url('../images/point-2.png');
+	background-repeat: no-repeat;
+	height: 16px;
+	padding-left: 16px;
+	font-size: 0 !important;
+	float: left;
+}
+
+#testimonials-section .slidesjs-pagination-item a:hover{
+	background-image: url('../images/point-1.png');
+	background-repeat: no-repeat;
+}

@@ -1,0 +1,1 @@
+[11-Oct-2015 22:57:31 CST6CDT] PHP Fatal error:  Cannot redeclare quoted_printable_encode() in /home/sandogro/public_html/libraries/bitfolge/vcard.php on line 74

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://www.joomla.org/xml/dtd/1.5/template-install.dtd">
+<install version="1.5" type="template">
+	<name>Sando Template</name>
+	<creationDate>01/04/2013</creationDate>
+	<author>Sunny Dsouza</author>
+	<authorEmail>sunny@vitruviantech.com</authorEmail>
+	<authorUrl>sunny@vitruviantech.com</authorUrl>
+	<copyright></copyright>
+	<license>GNU/GPL</license>
+	<version>1.0.2</version>
+	<description>default_template</description>
+
+	<positions>
+		<position>headerrow1</position>
+		<position>logo</position>
+		<position>iso</position>
+
+		<position>mainmenu</position>
+		<position>socialmedialinks</position>
+                
+        <position>sliderbanner</position>
+
+        <position>contactus</position>
+        
+        <position>clicktocall</position>
+
+		<position>contactaddress</position>
+                
+                
+		<position>featuredpumps</position>
+		<position>homepageaboutus</position>
+		<position>quicklinks</position>
+		<position>testimonials</position>
+
+		<position>downloadprofile</position>
+                
+
+
+		<position>footer1</position>
+		<position>footer2</position>
+		<position>footer3</position>
+		<position>footer4</position>
+		<position>footerPvdfValve</position>
+
+	</positions>
+
+</install>
