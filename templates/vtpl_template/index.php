@@ -144,9 +144,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		else if ($_REQUEST['option'] == 'com_ckforms')
 		{
 		?>
-		<p class="blocktitle">Contact Us</p>
-		<jdoc:include type="component" />
-		<jdoc:include type="modules" name="contactaddress" />
+		<p class="blocktitle"></p>
+		<jdoc:include type="" />
+		<jdoc:include type="modules" name="" />
 	<?php
 		}
                     else if (($_REQUEST['option'] == 'com_content'))
